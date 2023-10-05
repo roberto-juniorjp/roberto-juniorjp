@@ -1,8 +1,8 @@
 ### Hello there 👋 I'm Roberto Júnior!
 <div>
   <a href="https://github.com/roberto-juniorjp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-juniorjp&layout=compact&theme=dracula"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-juniorjp&layout=compact&theme=dracula"/>
   </a>
 </div>
 - 🔭 I’m currently working on a digital agency;
