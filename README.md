@@ -2,7 +2,7 @@
 <div style="display:flex; justify-content:center;">
   <a href="https://github.com/roberto-juniorjp">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-juniorjp&layout=dracula"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-juniorjp&layout=compact&theme=dracula"/>
   </a>
 </div>
 - 🔭 I’m currently working on a digital agency;
