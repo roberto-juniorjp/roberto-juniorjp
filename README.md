@@ -1,5 +1,5 @@
 ### Hello there 👋 I'm Roberto Júnior!
-<div>
+<div style="display:flex; flex-direction:row;">
   <a href="https://github.com/roberto-juniorjp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roberto-juniorjp&show_icons=true&bg_color=00000000"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-juniorjp&layout=compact"/>
