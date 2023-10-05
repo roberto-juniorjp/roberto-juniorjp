@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello there 👋 I'm Roberto Júnior!
+![roberto-juniorjp's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberto-juniorjp&show_icons=true&bg_color=00000000)
 - 🔭 I’m currently working on SEO;
 - 🌱 I’m currently learning Javascript;
 - 👯 I’m looking to collaborate on Frontend Projects;
