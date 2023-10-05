@@ -1,5 +1,5 @@
 ### Hello there 👋 I'm Roberto Júnior!
-<div style="display:flex; justify-content:center;">
+<div>
   <a href="https://github.com/roberto-juniorjp">
   <img width="260em" height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula"/>
   <img width="260em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-juniorjp&layout=compact&theme=dracula"/>
