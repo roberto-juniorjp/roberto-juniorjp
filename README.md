@@ -1,4 +1,8 @@
 ### Hello there 👋 I'm Roberto Júnior!
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roberto-juniorjp&show_icons=true&bg_color=00000000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-juniorjp&layout=compact"/>
+</div>
 ![roberto-juniorjp's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberto-juniorjp&show_icons=true&bg_color=00000000)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-juniorjp&layout=compact)  
 - 🔭 I’m currently working on a digital agency;
