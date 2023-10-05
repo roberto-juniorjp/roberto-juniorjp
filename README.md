@@ -1,7 +1,7 @@
 ### Hello there 👋 I'm Roberto Júnior!
 <div>
   <a href="https://github.com/roberto-juniorjp">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula&card_width=270&hide_rank=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula&hide_rank=true"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-juniorjp&layout=compact&theme=dracula"/>
   </a>
 </div>
