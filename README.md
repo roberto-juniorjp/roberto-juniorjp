@@ -30,6 +30,6 @@
   <a href="https://api.whatsapp.com/send/?phone=5583999222312" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-<img alt="Roberto Snake Commit" src="https://github.com/roberto-juniorjp/roberto-juniorjp/blob/output/github-contribution-grid-snake.svg">
+<img align="center" alt="Roberto Snake Commit" src="https://github.com/roberto-juniorjp/roberto-juniorjp/blob/output/github-contribution-grid-snake.svg">
 
-<img width="300px" align="center" alt="Roberto Skywalker Jedi Frontend" src="https://github.com/roberto-juniorjp/roberto-juniorjp/assets/1179279/2f3210be-3133-4d8b-ac3a-f51bab393aea">
+<img align="center" width="300px" align="center" alt="Roberto Skywalker Jedi Frontend" src="https://github.com/roberto-juniorjp/roberto-juniorjp/assets/1179279/2f3210be-3133-4d8b-ac3a-f51bab393aea">
