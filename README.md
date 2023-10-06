@@ -35,5 +35,5 @@
 </div>
 
 <div align="center">
-<img align="center" alt="Roberto Skywalker Jedi Frontend" src="https://github.com/roberto-juniorjp/roberto-juniorjp/assets/1179279/2f3210be-3133-4d8b-ac3a-f51bab393aea">
+<img width="250px" align="center" alt="Roberto Skywalker Jedi Frontend" src="https://github.com/roberto-juniorjp/roberto-juniorjp/assets/1179279/2f3210be-3133-4d8b-ac3a-f51bab393aea">
 </div>
