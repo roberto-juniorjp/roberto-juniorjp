@@ -1,4 +1,4 @@
-<h1 style="border:none;">Roberto's Frontend GitHub</h1>
+<h1>Roberto's Frontend GitHub</h1>
 <h2>Hello there 👋 I'm Roberto Júnior!</h2>
 <div>
   <a href="https://github.com/roberto-juniorjp">
