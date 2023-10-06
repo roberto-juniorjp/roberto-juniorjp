@@ -6,6 +6,7 @@
   </a>
 </div>
 
+
 - 🔭 I’m currently working on a digital agency;
 - 🌱 I’m currently learning Javascript;
 - 👯 I’m looking to collaborate on Frontend Projects;
