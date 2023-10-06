@@ -7,7 +7,7 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/roberto-juniorjp/roberto-juniorjp/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/roberto-juniorjp/roberto-juniorjp/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center"><br>
   <img align="center" alt="Roberto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
