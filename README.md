@@ -21,7 +21,7 @@
   <img align="center" alt="Roberto-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
 </div>
 
-![Snake animation](https://github.com/roberto-juniorjp/roberto-juniorjp/blob/output/github-contribution-grid-snake.svg)
+<img alt="Roberto Snake Commit" src="https://github.com/roberto-juniorjp/roberto-juniorjp/blob/output/github-contribution-grid-snake.svg">
    
 <div>
   <a href="https://www.instagram.com/roberto.juniorjp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -31,5 +31,3 @@
 </div>
 
 <img width="300px" align="center" alt="Roberto Skywalker Jedi Frontend" src="https://github.com/roberto-juniorjp/roberto-juniorjp/assets/1179279/2f3210be-3133-4d8b-ac3a-f51bab393aea">
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=roberto-juniorjp&repo=roberto-juniorjp&theme=react)](https://github.com/roberto-juniorjp/roberto-juniorjp)
