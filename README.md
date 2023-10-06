@@ -1,4 +1,4 @@
-<h2>Hello there 👋 I'm Roberto Júnior!</h2>
+<h2 align="center">Hello there 👋 I'm Roberto Júnior!</h2>
 <p>I'm a Frontend enthusiast that strives to build excellent interfaces to make users fall in love with applications and change their lives.</p>
 <div align="center">
   <a href="https://github.com/roberto-juniorjp">
