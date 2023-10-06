@@ -22,8 +22,6 @@
 </div>
 
 ![Snake animation](https://github.com/roberto-juniorjp/roberto-juniorjp/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=roberto-juniorjp&repo=roberto-juniorjp&theme=react)](https://github.com/roberto-juniorjp/roberto-juniorjp)
    
 <div>
   <a href="https://www.instagram.com/roberto.juniorjp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
