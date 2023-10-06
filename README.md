@@ -5,6 +5,7 @@
   <img height="145em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-juniorjp&layout=compact&theme=dracula&custom_title=Languages&border_radius=4"/>
   </a>
 </div>
+
 - 🔭 I’m currently working on a digital agency;
 - 🌱 I’m currently learning Javascript;
 - 👯 I’m looking to collaborate on Frontend Projects;
