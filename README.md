@@ -1,6 +1,6 @@
 <h2>Hello there 👋 I'm Roberto Júnior!</h2>
 <p>I'm a Frontend enthusiast that strives to build excellent interfaces to make users fall in love with applications and change their lives.</p>
-<div>
+<div align="center">
   <a href="https://github.com/roberto-juniorjp">
   <img height="145em" align="center" src="https://github-readme-stats.vercel.app/api?username=roberto-juniorjp&show_icons=true&theme=dracula&border_radius=8"/>
   <img height="145em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-juniorjp&layout=compact&theme=dracula&custom_title=Languages&border_radius=4"/>
