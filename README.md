@@ -1,15 +1,23 @@
+<!-- Introduction -->
 <h1 align="center">Hello there 👋 I'm Roberto Júnior!</h2>
 <p align="center">I'm a Frontend enthusiast that strives to build excellent interfaces to make users fall in love with applications and change their lives.</p>
+
+<!-- GitHub Widgets -->
 <div align="center">
   <a href="https://github.com/roberto-juniorjp">
   <img height="145em" align="center" src="https://github-readme-stats.vercel.app/api?username=roberto-juniorjp&show_icons=true&theme=dracula&border_radius=8"/>
   <img height="145em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-juniorjp&layout=compact&theme=dracula&custom_title=Languages&border_radius=4"/>
   </a>
 </div>
+
+<!-- Snake Commit SVG -->
 <div align="center">
   <img alt="Roberto Snake Commit" src="https://github.com/roberto-juniorjp/roberto-juniorjp/blob/output/github-contribution-grid-snake.svg")
 </div>
+
+<!-- Languages, Technologies and Skills Overall -->
 <h2 align="center">Proficiency</h2>
+  
 <div align="center">
   <img align="center" alt="Roberto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Roberto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -23,8 +31,10 @@
   <img align="center" alt="Roberto-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
   <img align="center" alt="Roberto-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
 </div>
-  
+
+<!-- Contact Info and Social -->
 <h2 align="center">Contact</h2>
+
 <div align="center">
   <a href="https://www.instagram.com/roberto.juniorjp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:juniorjp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -32,6 +42,7 @@
   <a href="https://api.whatsapp.com/send/?phone=5583999222312" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
+<!-- Anakin Skywalker -->
 <div align="center">
   <img width="200px" align="center" alt="Roberto Skywalker Jedi Frontend" src="https://github.com/roberto-juniorjp/roberto-juniorjp/assets/1179279/2f3210be-3133-4d8b-ac3a-f51bab393aea">
 </div>
