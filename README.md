@@ -30,4 +30,4 @@
   <a href="https://api.whatsapp.com/send/?phone=5583999222312" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-![image](https://github.com/roberto-juniorjp/roberto-juniorjp/assets/1179279/ff45b384-2de8-4949-972b-f77836a249eb)
+![AnakinLightsaberSpinGIF](https://github.com/roberto-juniorjp/roberto-juniorjp/assets/1179279/2f3210be-3133-4d8b-ac3a-f51bab393aea)
