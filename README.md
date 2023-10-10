@@ -19,9 +19,9 @@
 <h2 align="center">Recent Projects</h2>
 
 <div align="center">
-  <a href="https://roberto-iphone-13-pro-page.vercel.app/" target="_blank"><img align="center" alt="Portfolio-01" src="img/portfolio-01.png"></a>
-  <a href="https://roberto-bmi-calculator.vercel.app/" target="_blank"><img align="center" alt="Portfolio-02" src="img/portfolio-02.png"></a>
-  <a href="https://roberto-whatsapp-link-generator.vercel.app/" target="_blank"><img align="center" alt="Portfolio-03" src="img/portfolio-03.png"></a>
+  <a href="https://roberto-iphone-13-pro-page.vercel.app/"><img align="center" alt="Portfolio-01" src="img/portfolio-01.png"></a>
+  <a href="https://roberto-bmi-calculator.vercel.app/"><img align="center" alt="Portfolio-02" src="img/portfolio-02.png"></a>
+  <a href="https://roberto-whatsapp-link-generator.vercel.app/"><img align="center" alt="Portfolio-03" src="img/portfolio-03.png"></a>
 </div>
 
 <!-- Languages, Technologies and Skills Overall -->
