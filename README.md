@@ -15,6 +15,21 @@
   <img alt="Roberto Snake Commit" src="https://github.com/roberto-juniorjp/roberto-juniorjp/blob/output/github-contribution-grid-snake.svg")
 </div>
 
+<!-- My Recent Portfolios -->
+<h2 align="center">Recent Projects</h2>
+
+<div align="center">
+  <svg width="134" height="90" viewBox="0 0 134 90" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="translate(0 0)">
+  <rect width="120" height="50" rx="4" transform="translate(0 0)" fill="#212121" stroke="#e0e0e0" stroke-width="1"></rect><text transform="translate(16 30)" fill="white" font-size="14" font-family="Roboto-Medium,Roboto" ><tspan x="0" y="0">Iphone 13 Pro</tspan></text>
+  </g></svg>
+  <svg width="134" height="90" viewBox="0 0 134 90" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="translate(0 0)">
+  <rect width="120" height="50" rx="4" transform="translate(0 0)" fill="#212121" stroke="#e0e0e0" stroke-width="1"></rect><text transform="translate(29 30)" fill="white" font-size="14" font-family="Roboto-Medium,Roboto" ><tspan x="0" y="0">BMI Table</tspan></text>
+  </g></svg>
+  <svg width="134" height="90" viewBox="0 0 134 90" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="translate(0 0)">
+  <rect width="120" height="50" rx="4" transform="translate(0 0)" fill="#212121" stroke="#e0e0e0" stroke-width="1"></rect><text transform="translate(20 30)" fill="white" font-size="14" font-family="Roboto-Medium,Roboto" ><tspan x="0" y="0">QRCode Gen</tspan></text>
+  </g></svg>
+</div>
+
 <!-- Languages, Technologies and Skills Overall -->
 <h2 align="center">Proficiency</h2>
   
