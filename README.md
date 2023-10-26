@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://roberto-iphone-13-pro-page.vercel.app/"><img align="center" alt="Portfolio-01" src="img/portfolio-01.png"></a>
-  <a href="https://shopping-list-manager.vercel.app/"><img align="center" alt="Portfolio-04" src="img/portfolio-04.png"></a>
+  <a href="https://roberto-shopping-list-manager.vercel.app/"><img align="center" alt="Portfolio-04" src="img/portfolio-04.png"></a>
   <a href="https://roberto-whatsapp-link-generator.vercel.app/"><img align="center" alt="Portfolio-03" src="img/portfolio-03.png"></a>
 </div>
 
