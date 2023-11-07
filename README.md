@@ -19,9 +19,9 @@
 <h2 align="center">Recent Projects</h2>
 
 <div align="center">
-  <a href="https://roberto-notes.vercel.app/"><img align="center" alt="Portfolio-05" src="img/portfolio-05.png"></a>
-  <a href="https://roberto-shopping-list-manager.vercel.app/"><img align="center" alt="Portfolio-04" src="img/portfolio-04.png"></a>
-  <a href="https://roberto-box-shadow-generator.vercel.app/"><img align="center" alt="Portfolio-06" src="img/portfolio-06-fix.png"></a>
+  <a href="https://roberto-notes.vercel.app/"><img align="center" alt="Note App Portfolio Button" src="img/portfolio-05.png"></a>
+  <a href="https://roberto-shopping-list-manager.vercel.app/"><img align="center" alt="Shopping List Manager App Portfolio Button" src="img/portfolio-04.png"></a>
+  <a href="https://roberto-bmi-calculator-react.vercel.app/"><img align="center" alt="BMI Calculator App Portfolio Button" src="img/portfolio-07"></a>
 </div>
 
 <!-- Languages, Technologies and Skills Overall -->
