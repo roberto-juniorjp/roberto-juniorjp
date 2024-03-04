@@ -21,7 +21,7 @@
 <div align="center">
   <a href="https://roberto-nps-form-multistep.vercel.app/"><img align="center" alt="NPS Form Multistep App Portfolio Button" src="img/portfolio-08.png"></a>
   <a href="https://secret-word-game-sigma.vercel.app/"><img align="center" alt="Secret Word Game App Portfolio Button" src="img/portfolio-09.png"></a>
-  <a href="https://roberto-bmi-calculator-react.vercel.app/"><img align="center" alt="BMI Calculator App Portfolio Button" src="img/portfolio-07.png"></a>
+  <a href="https://roberto-bingo-react.vercel.app/"><img align="center" alt="Bingo React App Portfolio Button" src="img/portfolio-10.png"></a>
 </div>
 
 <!-- Languages, Technologies and Skills Overall -->
