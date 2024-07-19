@@ -5,8 +5,8 @@
 <!-- GitHub Widgets -->
 <div align="center">
   <a href="https://github.com/roberto-juniorjp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roberto-juniorjp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-juniorjp&layout=compact&langs_count=7&theme=dracula&custom_title=Languages&border_radius=4&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roberto-juniorjp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-juniorjp&layout=compact&langs_count=7&theme=dracula&custom_title=Languages&border_radius=8&count_private=true"/>
   </a>
 </div>
 
