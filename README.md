@@ -19,9 +19,9 @@
 <h2 align="center">Recent Projects</h2>
 
 <div align="center">
-  <a href="https://roberto-nps-form-multistep.vercel.app/"><img align="center" alt="NPS Form Multistep App Portfolio Button" src="img/portfolio-08.png"></a>
-  <a href="https://secret-word-game-sigma.vercel.app/"><img align="center" alt="Secret Word Game App Portfolio Button" src="img/portfolio-09.png"></a>
-  <a href="https://roberto-bingo-react.vercel.app/"><img align="center" alt="Bingo React App Portfolio Button" src="img/portfolio-10.png"></a>
+  <a href="https://github.com/roberto-juniorjp/catalogue-api/"><img align="center" alt="Rest API built with ASP.NET GitHub Repository" src="img/portfolio-11.png"></a>
+  <a href="https://github.com/Super-Patos-Hackaton/"><img align="center" alt="Hackaton Project That Won First Place GitHub Repository" src="img/portfolio-12.png"></a>
+  <a href="https://github.com/roberto-juniorjp/bingo-react/"><img align="center" alt="Bingo Game Made With React GitHub Repository" src="img/portfolio-10-fix.png"></a>
 </div>
 
 <!-- Languages, Technologies and Skills Overall -->
