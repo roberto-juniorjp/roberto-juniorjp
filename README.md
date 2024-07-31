@@ -1,6 +1,6 @@
 <!-- Introduction -->
-<h1 align="center">Welcome to Roberto Junior's Front-End World 🌍</h1>
-<p align="center">I'm a Frontend enthusiast that strives to build excellent interfaces to make users fall in love with applications and change their lives.</p>
+<h1 align="center">Roberto Júnior Fullstack Developer 🌍</h1>
+<p align="center">I'm a Fullstack .NET and React / Next enthusiast that strives to build robust and appealing applications to thrive for success and scale</p>
 
 <!-- GitHub Widgets -->
 <div align="center">
