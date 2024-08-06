@@ -11,9 +11,9 @@
 </div>
 
 <!-- Snake Commit SVG -->
-<div align="center">
+<!-- <div align="center">
   <img alt="Roberto Snake Commit" src="https://github.com/roberto-juniorjp/roberto-juniorjp/blob/output/github-contribution-grid-snake.svg")
-</div>
+</div> -->
   
 <!-- My Recent Portfolios -->
 <h2 align="center">Recent Projects</h2>
